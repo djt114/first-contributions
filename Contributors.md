@@ -3370,3 +3370,4 @@
 - [rrriki](https://github.com/reveware)
 - [Jacob Goodall](https://github.com/jgoodall13)
 - [Myeong Kim](https://github.com/cgopia94)
+- [Dylan Taylor](https://github.com/djt114)
